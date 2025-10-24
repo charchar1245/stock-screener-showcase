@@ -14,7 +14,7 @@ A dynamic web application that allows users to screen and visualize top-performi
 - GitHub Pages for deployment
 
 ## Live Demo
-[➡️ View Website](https://charchar1245.github.io/stockscreener-myfinancepal-prealpha/)
+[➡️ View Website](visionary-smakager-71b743.netlify.app)
 
 ## Screenshots
 [View Screenshot](https://github.com/charchar1245/stockscreener-myfinancepal-prealpha/blob/main/screenshot_1.png?raw=true)
